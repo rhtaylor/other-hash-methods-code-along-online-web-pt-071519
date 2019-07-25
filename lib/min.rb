@@ -12,4 +12,5 @@ def get_the_min(groceries)
   #code your solution here!
   x = groceries.values
   x.min
+  binding.pry
 end
