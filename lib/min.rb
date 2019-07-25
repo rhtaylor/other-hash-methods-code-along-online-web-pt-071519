@@ -13,5 +13,5 @@ def get_the_min(groceries)
   x = groceries.min
 
 
-  binding.pry
+
 end
